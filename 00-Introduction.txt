@@ -1,0 +1,54 @@
+
+============================
+PHP COURSE - INTRODUCTION
+============================
+
+📘 About This Course:
+----------------------------
+Welcome to the PHP course for absolute beginners! This course is designed to help you learn PHP step-by-step, from the very basics to more advanced topics. Whether you're building your first dynamic website or preparing to dive into backend development, this course will guide you with clear explanations, code examples, and hands-on exercises.
+
+PHP (PHP: Hypertext Preprocessor) is a powerful, open-source server-side scripting language used to create dynamic web pages. It's widely used in web development and is the backbone of popular platforms like WordPress, Joomla, and Drupal.
+
+🎯 Course Goals:
+----------------------------
+- Understand PHP fundamentals
+- Handle forms and user input
+- Connect and interact with databases
+- Build dynamic and secure web applications
+- Learn best practices and modern PHP techniques
+
+🛠️ Prerequisites:
+----------------------------
+- Basic knowledge of HTML (recommended but not required)
+- A code editor (VS Code, Sublime Text, etc.)
+- A local server environment like XAMPP, WAMP, or MAMP
+- Curiosity and willingness to learn!
+
+🧭 Course Topics:
+----------------------------
+1. Introduction to PHP and Environment Setup
+2. PHP Syntax and Basic Script Writing
+3. Variables and Data Types
+4. Operators and Expressions
+5. Control Structures (if, else, switch)
+6. Loops (for, while, foreach)
+7. Functions (user-defined and built-in)
+8. Arrays (indexed, associative, multidimensional)
+9. Form Handling with $_GET and $_POST
+10. Validating and Sanitizing User Input
+11. File Handling (read/write, upload)
+12. Sessions and Cookies
+13. PHP and MySQL (CRUD operations)
+14. Error Handling and Debugging
+15. Object-Oriented Programming in PHP
+16. Security Best Practices (SQL Injection, XSS)
+17. REST APIs and JSON Handling
+18. Introduction to MVC Architecture
+19. Composer and Autoloading
+20. Deploying PHP Projects Online
+
+🎓 Final Project:
+----------------------------
+By the end of this course, you'll build a complete web application (e.g., a guestbook, blog, or login system) to apply everything you've learned.
+
+Happy coding! 🚀
